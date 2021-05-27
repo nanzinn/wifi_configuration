@@ -13,8 +13,104 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36eaa994-8d94-4b26-ad03-1254c90d5e49" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Podfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/.idea/libraries/Dart_SDK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/.idea/libraries/Flutter_for_Android.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/.idea/runConfigurations/example_lib_main_dart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/android/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/android/src/main/java/com/example/flutter_plugin/FlutterPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/android/app/src/main/java/com/example/flutter_plugin_example/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Podfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/example/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/flutter_plugin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_plugin/flutter_plugin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/ios/Assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/ios/Classes/FlutterPlugin.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/ios/Classes/FlutterPlugin.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/ios/Classes/SwiftFlutterPlugin.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/ios/flutter_plugin.podspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/lib/flutter_plugin.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_plugin/test/flutter_plugin_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,46 +137,25 @@
   </component>
   <component name="ProjectId" id="1t4gWiL1Oe3carbHxcGMVw3VdZi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="wifi_configuration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wifi_configuration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wifi_configuration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wifi_configuration" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wifi_configuration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wifi_configuration" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example/ios" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/example/ios" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -93,6 +168,14 @@
       <option name="presentableId" value="Default" />
       <updated>1558331086335</updated>
     </task>
+    <task id="LOCAL-00001" summary="teste">
+      <created>1622033891960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622033891960</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -103,6 +186,48 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="711" y="514" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622035574331">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="711" y="514" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1365@0.23.2560.1365" timestamp="1622035574331" />
+    <state x="587" y="285" key="CommitChangelistDialog2" timestamp="1622033891597">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="587" y="285" key="CommitChangelistDialog2/0.23.2560.1365@0.23.2560.1365" timestamp="1622033891597" />
+    <state width="1953" height="317" key="GridCell.Tab.0.bottom" timestamp="1622117720345">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state width="1953" height="317" key="GridCell.Tab.0.bottom/0.23.2560.1365@0.23.2560.1365" timestamp="1622117720345" />
+    <state width="1953" height="317" key="GridCell.Tab.0.center" timestamp="1622117720343">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state width="1953" height="317" key="GridCell.Tab.0.center/0.23.2560.1365@0.23.2560.1365" timestamp="1622117720343" />
+    <state width="1953" height="317" key="GridCell.Tab.0.left" timestamp="1622117720343">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state width="1953" height="317" key="GridCell.Tab.0.left/0.23.2560.1365@0.23.2560.1365" timestamp="1622117720343" />
+    <state width="1953" height="317" key="GridCell.Tab.0.right" timestamp="1622117720345">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state width="1953" height="317" key="GridCell.Tab.0.right/0.23.2560.1365@0.23.2560.1365" timestamp="1622117720345" />
+    <state x="531" y="347" key="SettingsEditor" timestamp="1622034536439">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="531" y="347" key="SettingsEditor/0.23.2560.1365@0.23.2560.1365" timestamp="1622034536439" />
+    <state x="629" y="448" key="Vcs.Push.Dialog.v2" timestamp="1622033894094">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="629" y="448" key="Vcs.Push.Dialog.v2/0.23.2560.1365@0.23.2560.1365" timestamp="1622033894094" />
+    <state x="662" y="335" width="670" height="676" key="search.everywhere.popup" timestamp="1622116961935">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="662" y="335" width="670" height="676" key="search.everywhere.popup/0.23.2560.1365@0.23.2560.1365" timestamp="1622116961935" />
   </component>
   <component name="masterDetails">
     <states>
